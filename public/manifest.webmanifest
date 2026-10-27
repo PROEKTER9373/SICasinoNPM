@@ -1,0 +1,11 @@
+{
+  "name":"SICO Local",
+  "short_name":"SICO",
+  "description":"Локальная игра с друзьями в одной Wi‑Fi сети.",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#07080b",
+  "theme_color":"#07080b",
+  "orientation":"any",
+  "icons":[{"src":"/sico-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

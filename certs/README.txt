@@ -1,0 +1,1 @@
+Place mkcert-generated server.key and server.crt here. See HTTPS.md.\n
